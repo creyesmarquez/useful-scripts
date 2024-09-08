@@ -4,3 +4,14 @@ __pycache__/
 
 # Virtual environment
 myenv/
+
+# Environment variables
+.env
+
+# beancount-automation project
+/beancount-automation/data/*
+!/beancount-automation/data/.gitkeep
+/beancount-automation/import/*
+!/beancount-automation/import/.gitkeep
+/beancount-automation/private/*
+!/beancount-automation/private/.gitkeep
