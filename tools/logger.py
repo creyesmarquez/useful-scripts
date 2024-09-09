@@ -1,4 +1,3 @@
-# logger.py
 import logging
 from colorlog import ColoredFormatter
 
